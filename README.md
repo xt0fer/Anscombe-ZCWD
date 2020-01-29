@@ -1,0 +1,2 @@
+# Anscombe-ZCWD
+anscombe peculiarities
