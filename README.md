@@ -10,3 +10,5 @@ He described the article as being intended to counter the impression
 among statisticians that "numerical calculations are exact, but graphs are rough."
 
 ![the dataset](./Anscombe.png)
+
+_looks like a pretty normal/common not too strange dataset_
